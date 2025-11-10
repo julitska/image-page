@@ -1,4 +1,4 @@
-import ImagePage from '../components/ImagePage';
+import ImagePage from "../components/ImagePage";
 
 export default function Home() {
   return (
