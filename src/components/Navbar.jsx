@@ -3,8 +3,12 @@ import { Link } from 'react-router-dom';
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <Link to="#" className="login">Login</Link>
-      <Link to="/" className="nav-all">All</Link>
+      <div className="nav-left">
+        <Link to="/" className="login-button">Login</Link>
+      </div>
+      <div className="nav-right">
+        <Link to="/" className="nav-link">All Images</Link>
+      </div>
     </nav>
   );
 }

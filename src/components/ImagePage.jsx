@@ -63,9 +63,10 @@ export default function ImagePage() {
     <div className="image-grid">
       {images.map((img, index) => (
         <ImageCard
+         id={index}
           key={index}
           src={img.src}
-          alt={img.title}
+           alt={img.alt}
           title={img.title}
           description={img.description}
         />
