@@ -1,3 +1,5 @@
+Image Gallery
+
 A minimalist, single-page image gallery built with React. 
 This project features nine clickable images arranged in a responsive layout, 
 designed to showcase clean structure, interactive behavior, and visual clarity.
