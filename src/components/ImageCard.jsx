@@ -11,6 +11,7 @@ export default function ImageCard({ id, src, alt, title, description }) {
           src={src}
           alt={alt || "Image"}
           className="image"
+          loading="lazy"
         />
       </Link>
       {title && <h3 className="title">{title}</h3>}
