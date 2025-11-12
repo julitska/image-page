@@ -1,9 +1,13 @@
 Image Gallery
 
-A minimalist, single-page image gallery built with React. 
-This project features nine clickable images arranged in a responsive layout, 
-designed to showcase clean structure, interactive behavior, and visual clarity.
+A minimalist, single-page image gallery was built as part of my learning process with Vite. 
+The project focuses on clean layout, responsive design, and accessible image presentation using React.
 
-This project showcases my ability to build a clean and responsive React layout.
-Through this build, I strengthened my understanding of React fundamentals and 
-making design decisions that prioritise clarity and user interaction.
+This project shows my knowledge in setting up a React project with Vite.
+Through this build, I strengthened my understanding of React with Vite fundamentals.
+
+Other skills learned:
+Implementing lazy loading for performance.
+Deploying to GitHub Pages with a custom 404.html fallback.
+Configuring vite.config.js for GitHub Pages deployment.
+Using import.meta.env.BASE_URL for static assets.
